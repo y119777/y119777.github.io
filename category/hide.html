@@ -4,35 +4,49 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-		<title>yuan</title>
+		<title>y119777.github.io</title>
 		<meta name="description" content="">
 		<meta name="author" content="yuan">
 
-		<link rel="stylesheet" href="http://y119777.github.io/theme/css/foundation.css" />
-		<link rel="stylesheet" href="http://y119777.github.io/theme/css/pygment/monokai.css" />
-		<link rel="stylesheet" href="http://y119777.github.io/theme/css/custom.css" />
+		<link rel="stylesheet" href="https://y119777.github.io/theme/css/foundation.css" />
+		<link rel="stylesheet" href="https://y119777.github.io/theme/css/pygment/monokai.css" />
+		<link rel="stylesheet" href="https://y119777.github.io/theme/css/custom.css" />
 
 
-		<script src="http://y119777.github.io/theme/js/modernizr.js"></script>
+		<link rel="shortcut icon" href="https://y119777.github.io/theme/img/favicon.ico">
+
+		<script src="https://y119777.github.io/theme/js/modernizr.js"></script>
 
 		<!-- Feeds -->
 
 
 		<!-- mathjax config similar to math.stackexchange -->
-		<script type="text/x-mathjax-config">
+		<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+		<script>
 		MathJax.Hub.Config({
-			jax: ["input/TeX", "output/HTML-CSS"],
-			tex2jax: {
-				inlineMath: [ ['$', '$'] ],
-				displayMath: [ ['$$', '$$']],
-				processEscapes: true,
-				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-			},
-			messageStyle: "none",
-			"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+		  config: ["MMLorHTML.js"],
+		  extensions: ["tex2jax.js"],
+		  jax: ["input/TeX"],
+		  tex2jax: {
+		    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+		    processEscapes: false
+		  },
+		  TeX: {
+		    extensions: ["AMSmath.js", "AMSsymbols.js"],
+		    TagSide: "right",
+		    TagIndent: ".8em",
+		    MultLineWidth: "85%",
+		    equationNumbers: {
+		      autoNumber: "AMS",
+		    },
+		    unicode: {
+		      fonts: "STIXGeneral,'Arial Unicode MS'"
+		    }
+		  },
+		  showProcessingMessages: false
 		});
 		</script>
-		<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 	</head>
 	<body>
 		<div class="off-canvas-wrap">
@@ -44,40 +58,44 @@
 					</section>
 
 					<section class="middle tab-bar-section">
-						<h1 class="title">yuan</h1>
+						<h1 class="title">y119777.github.io</h1>
 					</section>
 				</nav>
 
 				<!-- mobile side bar nav -->
 				<aside class="left-off-canvas-menu">
 					<ul class="off-canvas-list">
-						<li><a href="http://y119777.github.io">Home</a></li>
+							<li><a href="https://y119777.github.io">Home</a></li>
+							<li><a href="https://y119777.github.io/about.html">About</a></li>
+
 						<li><label>Categories</label></li>
-							<li class="active"><a href="http://y119777.github.io/category/hide.html">hide</a></li>
-
-						<li><label>Links</label></li>
-
+							<li class="active"><a href="https://y119777.github.io/category/hide.html">hide</a></li>
+							<li ><a href="https://y119777.github.io/category/test.html">test</a></li>
 
 
-						<li><label>Social</label></li>
-					</ul>	
+
+
+						<li><label>Monthly Archives</label></li>
+									<li><a href="/posts/2014/07/index.html">July 2014 (1)</a></li>
+
+
+					</ul>
 				</aside>
 
 				<!-- top bar nav -->
 				<nav class="top-bar hide-for-small-only" data-topbar>
 					<ul class="title-area">
 						<li class="name">
-							<h1><a href="http://y119777.github.io/">yuan</a></h1>
+							<h1><a href="https://y119777.github.io/">y119777.github.io</a></h1>
 						</li>
 					</ul>
 
 					<section class="top-bar-section">
 						<ul class="left">
-								<li class="active"><a href="http://y119777.github.io/category/hide.html">hide</a></li>
+								<li><a href="https://y119777.github.io">Home</a></li>
+								<li><a href="https://y119777.github.io/about.html">About</a></li>
+
 						</ul>
-                        <ul class="right">                                                                                                                                           
-                                                                                                                                             
-                        </ul>  
 					</section>
 				</nav>
 
@@ -93,27 +111,10 @@
 							</div>
 
 <article>
-	<h3><a href="http://y119777.github.io/helloworld.html">HelloWorld</a></h3>
-	<h6>Written by <a href="http://y119777.github.io/author/yuan.html">yuan</a> in <a href="http://y119777.github.io/category/hide.html">hide</a> on 2016-08-06(星期六) 00:00.</h6>
-	<div class="codehilite" style="background: #f8f8f8"><pre style="line-height: 125%"><span style="color: #008800">#include&lt;bits/stdc++.h&gt;</span>
-<span style="color: #AA22FF; font-weight: bold">using</span> <span style="color: #AA22FF; font-weight: bold">namespace</span> std;
-<span style="color: #00BB00; font-weight: bold">int</span> <span style="color: #00A000">main</span>() {
-    cout <span style="color: #666666">&lt;&lt;</span> <span style="color: #BB4444">&quot;Hello world!&quot;</span> <span style="color: #666666">&lt;&lt;</span> endl;
-    <span style="color: #AA22FF; font-weight: bold">return</span> <span style="color: #666666">1</span>;
-}
-</pre></div>
-		<p class="continue"><a href="http://y119777.github.io/helloworld.html">Continue reading &raquo;</a></p>
-</article>
-<hr />
-<article>
-	<h3><a href="http://y119777.github.io/test.html">test</a></h3>
-	<h6>Written by <a href="http://y119777.github.io/author/yuan.html">yuan</a> in <a href="http://y119777.github.io/category/hide.html">hide</a> on 2016-08-06(星期六) 00:00.</h6>
-	<h3 id="test">test</h3>
-<p>adadas
-1. a
-2. b
-3. c</p>
-		<p class="continue"><a href="http://y119777.github.io/test.html">Continue reading &raquo;</a></p>
+	<h3><a href="https://y119777.github.io/about.html">About</a></h3>
+	<h6>Post by <a href="https://y119777.github.io/author/joey-huang.html">Joey Huang</a> under <a href="https://y119777.github.io/category/hide.html">hide</a> on 2014-07-01(Tuesday) 00:00.</h6>
+	<p><strong>兰生幽谷，不以无人而不芳</strong></p>
+		<p class="continue"><a href="https://y119777.github.io/about.html">阅读全文 &raquo;</a></p>
 </article>
 <hr />
 
@@ -123,8 +124,19 @@
 						<!-- Sidebar -->
 						<aside class="medium-3 hide-for-small-only columns">
 							<div class="panel">
-								<h5>Links</h5>
+								<h5>Places</h5>
 								<ul class="side-nav">
+										<li><a href="https://y119777.github.io/feeds/rss.xml" rel="alternate">RSS Feed</a></li>
+
+								</ul>
+							</div>
+
+
+							<div class="panel">
+								<h5>Categories</h5>
+								<ul class="side-nav">
+										<li><a href="https://y119777.github.io/category/hide.html">hide</a></li>
+										<li><a href="https://y119777.github.io/category/test.html">test</a></li>
 								</ul>
 							</div>
 
@@ -134,12 +146,13 @@
 								</ul>
 							</div>
 
-
 							<div class="panel">
-								<h5>Social</h5>
+								<h5>Monthly Archives</h5>
 								<ul class="side-nav">
+											<li><a href="/posts/2014/07/index.html">July 2014 (1)</a></li>
 								</ul>
 							</div>
+
 						</aside>
 						<!-- End Sidebar -->
 					</div>
@@ -148,7 +161,9 @@
 					<footer class="row">
 						<div class="medium-9 small-12">
 							<hr/>
-							<p class="text-center">Powered by <a href="http://getpelican.com">Pelican</a> and <a href="http://foundation.zurb.com/">Zurb Foundation</a>. Theme by <a href="http://hamaluik.com">Kenton Hamaluik</a>.</p>
+							<p class="text-center">Powered by <a href="http://getpelican.com">Pelican</a> and <a href="http://foundation.zurb.com/">Zurb Foundation</a>. Theme by <a href="http://hamaluik.com">Kenton Hamaluik</a>.
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253471695'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1253471695%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+							</p>
 						</div>
 					</footer>
 					<!-- End Footer -->
@@ -157,8 +172,8 @@
 			</div><!--off-canvas inner-->
 		</div><!--off-canvas wrap-->
 
-		<script src="http://y119777.github.io/theme/js/jquery.js"></script>
-		<script src="http://y119777.github.io/theme/js/foundation.min.js"></script>
+		<script src="https://y119777.github.io/theme/js/jquery.js"></script>
+		<script src="https://y119777.github.io/theme/js/foundation.min.js"></script>
 		<script>
 			$(document).foundation();
 		</script>

@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
+/*@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");*/
 meta.foundation-mq-small {
   font-family: "/only screen and (max-width: 40em)/";
   width: 0em; }
@@ -1494,13 +1494,13 @@ meta.foundation-mq-topbar {
   .top-bar .name {
     height: 45px;
     margin: 0;
-    font-size: 16px; }
+    font-size: 20px; }
     .top-bar .name h1 {
       line-height: 45px;
-      font-size: 1.0625rem;
+      font-size: 1.2625rem;
       margin: 0; }
       .top-bar .name h1 a {
-        font-weight: normal;
+        font-weight: bold;
         color: white;
         width: 50%;
         display: block;
@@ -1562,7 +1562,7 @@ meta.foundation-mq-topbar {
     height: auto;
     display: block;
     background: #333333;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0; }
   .top-bar-section .divider,
   .top-bar-section [role="separator"] {
@@ -1577,12 +1577,12 @@ meta.foundation-mq-topbar {
     padding: 12px 0 12px 0;
     padding-left: 15px;
     font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-    font-size: 0.8125rem;
+    font-size: 1.2125rem;
     font-weight: normal;
     background: #333333; }
     .top-bar-section ul li > a.button {
       background: #008cba;
-      font-size: 0.8125rem;
+      font-size: 1.2125rem;
       padding-right: 15px;
       padding-left: 15px; }
       .top-bar-section ul li > a.button:hover {
