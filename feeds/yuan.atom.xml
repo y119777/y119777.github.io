@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>yuan</title><link href="http://y119777.github.io/" rel="alternate"></link><link href="http://y119777.github.io/feeds/yuan.atom.xml" rel="self"></link><id>http://y119777.github.io/</id><updated>2016-08-06T00:00:00+08:00</updated><entry><title>HelloWorld</title><link href="http://y119777.github.io/helloworld.html" rel="alternate"></link><published>2016-08-06T00:00:00+08:00</published><author><name>yuan</name></author><id>tag:y119777.github.io,2016-08-06:helloworld.html</id><summary type="html">&lt;div class="codehilite" style="background: #f8f8f8"&gt;&lt;pre style="line-height: 125%"&gt;&lt;span style="color: #008800"&gt;#include&amp;lt;bits/stdc++.h&amp;gt;&lt;/span&gt;
+&lt;span style="color: #AA22FF; font-weight: bold"&gt;using&lt;/span&gt; &lt;span style="color: #AA22FF; font-weight: bold"&gt;namespace&lt;/span&gt; std;
+&lt;span style="color: #00BB00; font-weight: bold"&gt;int&lt;/span&gt; &lt;span style="color: #00A000"&gt;main&lt;/span&gt;() {
+    cout &lt;span style="color: #666666"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style="color: #BB4444"&gt;&amp;quot;Hello world!&amp;quot;&lt;/span&gt; &lt;span style="color: #666666"&gt;&amp;lt;&amp;lt;&lt;/span&gt; endl;
+    &lt;span style="color: #AA22FF; font-weight: bold"&gt;return&lt;/span&gt; &lt;span style="color: #666666"&gt;1&lt;/span&gt;;
+}
+&lt;/pre&gt;&lt;/div&gt;</summary></entry><entry><title>test</title><link href="http://y119777.github.io/test.html" rel="alternate"></link><published>2016-08-06T00:00:00+08:00</published><author><name>yuan</name></author><id>tag:y119777.github.io,2016-08-06:test.html</id><summary type="html">&lt;h3 id="test"&gt;test&lt;/h3&gt;
+&lt;p&gt;adadas
+1. a
+2. b
+3. c&lt;/p&gt;</summary></entry></feed>
