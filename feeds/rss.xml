@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>y119777.github.io</title><link>https://y119777.github.io/</link><description></description><lastBuildDate>Tue, 16 Aug 2016 22:40:12 +0800</lastBuildDate><item><title>8-16-code</title><link>https://y119777.github.io/8-16-code.html</link><description>&lt;h3 id="_1"&gt;大神，求带~&lt;/h3&gt;
+<rss version="2.0"><channel><title>y119777.github.io</title><link>https://y119777.github.io/</link><description></description><lastBuildDate>Fri, 19 Aug 2016 22:10:23 +0800</lastBuildDate><item><title>8-19-summary</title><link>https://y119777.github.io/8-19-summary.html</link><description>&lt;h3 id="d-upoctocattennis"&gt;你若安好，便是晴天~~~·:D :up::octocat::tennis:&lt;/h3&gt;
+&lt;p&gt;好久没有写了，赶紧抓紧时间写一下。&lt;/p&gt;
+&lt;p&gt;我相信用我的努力和坚持，一定会做出点什么，或者没有什么的话，我也是不留遗憾的！或许，你只想证明某些东西，面对别人的讽刺和嘲讽，我感觉人与人之间的信任到底在哪里，嘴上这么说，心里却不这样想，背后还议论纷纷，就像我这样！哎，何必在乎别人的说法和行为么，做好自己，everything is OK!&lt;/p&gt;
+&lt;p&gt;今天下午吃完饭以后，感觉好累啊，感觉像虚脱了一样，稍微趴了一会，就睡着了！以后得加强锻炼，健康生活！真的真的好累！少一点套路，多一点真诚！少说多做！别要老挑别人的毛病，要赞美，很世故，很圆滑，但这就是社会。&lt;/p&gt;
+&lt;p&gt;本来是周三晚上就要写总结的，是17号，但是那天刚好去打羽毛球了，外面还下了一点小雨，后来帮师哥做题，但是错过了网易有道的机试，好伤心啊！赶紧抓紧时间做一下这个题，网上可以查得到！那天虽然11点半才回去的，但感觉还是有点成绩的，以后多多帮忙，多帮助别人，感觉别人待你的态度都不一样了，就是这样！&lt;/p&gt;
+&lt;p&gt;然后是周四，生活很平淡，就是这样，今天做了些什么了？我已经想不起来了，但我记得做的，晚上做了区间修改和点修改的题目，可以用线段树，树状数组来做，后来查了下自带的题解，用的sqrt decomposition和zkw线段树，&lt;br /&gt;
+还是zkw线段是好使，效率高，但是递归的线段树范围更广，更容易编写。&lt;/p&gt;
+&lt;p&gt;接着是今天，好颓废啊！中午回宿舍，收了下衣服。感觉今天什么也没干，用实验室gitlab也是不熟练，eclipse git感觉一点都不会使，不知道怎么创建分支，怎么拉，推，怎么pull request merge，尤其是关键的怎么解决conflic，是时候好好学习一下了，说好了参加github上面的开源项目，好好锻炼一下自己，学习编程规范，锻炼英语，刚好听昨晚舍友说的什么计划，要有项目，要有重大改进，要有自己的东西，这个必须有时间搞起来了。&lt;strong&gt;认真去完成这个，去github上面的开源项目&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;晚上做题，感觉还是自己不行，做的少，需要大量时间刷，来提高，但是感觉时间有限！了解了一下c++的字符串分割方法，strtok，find，substr，以及boost的正则表达式，分割split，然后想到了那天的shell的tr命令，把指定相同连续字符转化为一个，然后再用目标字符替换，很棒！&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;祝姐姐生日快乐！&lt;/em&gt; :cake::cake::cake::+1:&lt;/p&gt;
+&lt;p&gt;贴一个有趣网站：&lt;a href="https://octodex.github.com/"&gt;octocat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://octodex.github.com/momtocat" /&gt;&lt;/p&gt;
+&lt;p&gt;还有做题ac后，下面提示解法，我点开后居然还要掏钱才能看，不是只有掏钱做的题么，怎么还有掏钱看的答案，然后我就上网查了一下，发现一个有意思的知乎话题&lt;a href="https://www.zhihu.com/question/421315f84"&gt;我是链接&lt;/a&gt;，大神真是厉害，我希望我有时间也做一下，hackerrank，听他们讲，好像很有趣的样子，我也要刷分，我也要rank！感觉还是自己太菜。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://raw.githubusercontent.com/y119777/pelican_blog/master/images/momtocat.png" /&gt;&lt;/p&gt;
+&lt;p&gt;还要写点什么，对了，那天跟师弟讨论，或许，是我错了，我不应该那样，多听听别人的意见，看别人怎么说，不要一味的自以为是！&lt;/p&gt;
+&lt;p&gt;最后，好好学习，天天向上！&lt;/p&gt;
+&lt;p&gt;~~写完最后检查一下又没什么错别字！~~&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">yuan</dc:creator><pubDate>Fri, 19 Aug 2016 22:10:23 +0800</pubDate><guid isPermaLink="false">tag:y119777.github.io,2016-08-19:8-19-summary.html</guid></item><item><title>8-16-code</title><link>https://y119777.github.io/8-16-code.html</link><description>&lt;h3 id="_1"&gt;大神，求带~&lt;/h3&gt;
 &lt;p&gt;今天在做wiggle sort II的时候，暴力都不知道怎么枚举，然后上网找答案，然后就发现一个大神的blog，主要是页面很简洁，然后leetcode全部刷完了，还是本科生就全部刷完了（让我等屌丝怎么活！），还有评论系统，头像可以旋转，感觉好酷炫，感觉真是牛的不行不行啦！真的让我怀疑人生，我以前都做了什么，一直在虚度人生么！&lt;/p&gt;
 &lt;p&gt;链接在此：&lt;a href="https://www.hrwhisper.me/"&gt;我是链接&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我感觉大神的身影好高大，不知道我还有没有机会赶得上！还是分析下今天那道题吧，暴力的就是排序，然后排序后怎么排列倒是个问题，解决办法就是倒着放，一个一个错开，我刚开始想着也是一个一个错开，从中间开始，但是老是遇到像{1，2，2}，{1，1，2，2}，{1，2，2，3}这样的问题不能解决，也没考虑倒着排列，感觉自己太愚钝了！然后就是O（n）的解法，暂时还没有看懂，贴几个网站，以后研究一下。&lt;/p&gt;
