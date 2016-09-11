@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>y119777.github.io</title><link>https://y119777.github.io/</link><description></description><lastBuildDate>Tue, 06 Sep 2016 22:50:31 +0800</lastBuildDate><item><title>9-6-summary</title><link>https://y119777.github.io/9-6-summary.html</link><description>&lt;p&gt;说好的，今天要写总结呢！每天是晚上走之前写总结，还是第二天早上来了再写总结，感觉&lt;br /&gt;
+<rss version="2.0"><channel><title>y119777.github.io</title><link>https://y119777.github.io/</link><description></description><lastBuildDate>Sun, 11 Sep 2016 22:58:54 +0800</lastBuildDate><item><title>9-11</title><link>https://y119777.github.io/9-11.html</link><description>&lt;h3 id="_1"&gt;随便写写&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;周报没有写&lt;/li&gt;
+&lt;li&gt;总结没有写&lt;/li&gt;
+&lt;li&gt;题做得模模糊糊&lt;/li&gt;
+&lt;li&gt;模型和apk没有更新。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;水平还是那么次，本来上午leetcode的比赛排名16的，后来rejudge以后，排名64.哎，真是弱！&lt;br /&gt;
+昨天上午在实验室做题，下午帮师兄做，教师节也没去北邮参加集会！感觉自己真是的，要不要这样！&lt;br /&gt;
+笔试就是这样，各方面的知识，概率，期望，程序运行结果，数据边界对齐情况，操作系统的知识，&lt;br /&gt;
+网络的知识，数据库的知识，数据结构，前序，后序，中序。真是菜！&lt;/p&gt;
+&lt;p&gt;晚上学习了一下新的套路，具体实现思路还是sparse table，加上一些改变，就是父亲的父亲，然后&lt;br /&gt;
+加上快速幂乘法，也就是binary exponentiation,掌握了没有，说是在lca里面也可用，没有找见，&lt;br /&gt;
+还有terary search，binary search也可以吧！&lt;/p&gt;
+&lt;p&gt;遇到题目，多分析各种情况，然后不断改进，不要着急。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">yuan</dc:creator><pubDate>Sun, 11 Sep 2016 22:58:54 +0800</pubDate><guid isPermaLink="false">tag:y119777.github.io,2016-09-11:9-11.html</guid></item><item><title>9-6-summary</title><link>https://y119777.github.io/9-6-summary.html</link><description>&lt;p&gt;说好的，今天要写总结呢！每天是晚上走之前写总结，还是第二天早上来了再写总结，感觉&lt;br /&gt;
 好麻烦啊，但是不写的话，感觉又缺少点什么，一天糊涂的度过，总是不好的。&lt;/p&gt;
 &lt;p&gt;昨天干了些什么，昨天好像老师一天都没来，我都想不起来了！这是晚睡的后果么，记忆力减退！&lt;br /&gt;
 昨天上午完善了下系统，中午第一次回学校吃饭，下午做什么了，完全没印象！还有晚上是帮&lt;br /&gt;
