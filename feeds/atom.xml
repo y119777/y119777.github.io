@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>y119777.github.io</title><link href="https://y119777.github.io/" rel="alternate"></link><link href="https://y119777.github.io/feeds/atom.xml" rel="self"></link><id>https://y119777.github.io/</id><updated>2016-09-16T22:38:00+08:00</updated><entry><title>9-16-summary</title><link href="https://y119777.github.io/9-16-summary.html" rel="alternate"></link><published>2016-09-16T22:38:00+08:00</published><author><name>yuan</name></author><id>tag:y119777.github.io,2016-09-16:9-16-summary.html</id><summary type="html">&lt;h3 id="_1"&gt;总结&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>y119777.github.io</title><link href="https://y119777.github.io/" rel="alternate"></link><link href="https://y119777.github.io/feeds/atom.xml" rel="self"></link><id>https://y119777.github.io/</id><updated>2016-09-26T22:46:22+08:00</updated><entry><title>9-26</title><link href="https://y119777.github.io/9-26.html" rel="alternate"></link><published>2016-09-26T22:46:22+08:00</published><author><name>yuan</name></author><id>tag:y119777.github.io,2016-09-26:9-26.html</id><summary type="html">&lt;h3 id="_1"&gt;随便写写&lt;/h3&gt;
+&lt;p&gt;好久没写来，来灌水吧！&lt;/p&gt;
+&lt;p&gt;上一次写是9月16日，一下就过去了10天。中间还夹杂了中秋节。而且，这周末就国庆了。真是着急着为祖国母亲庆生啊！&lt;/p&gt;
+&lt;p&gt;这之间发生了很多事情，主要是上周的笔试太多了，基本上每天下午都有笔试，好像还有一天还几次笔试！其实我想好好干活的，无奈被师兄师姐拉去做题！我真的太菜了。其实，我对做这些题是有意见的，一个是当场做不出来的话，结束再去做的话，根本没有机会测试你的程序的正确性，也无法发现正确的答案，无法进行总结和提高，如果做出来，那还挺好。基本上暴力，加上测试的数据很弱，基本上都能过。除了一些变态公司的题目，考察最大流最小割，我都不想说什么了！ &lt;/p&gt;
+&lt;p&gt;感觉自己还是有差距，这些题目并不能完全做出来，还是不熟练，做得少，套路浅。还有基本知识练习的少，尤其是c++的指针，引用，继承，虚函数，之类的不是很熟悉，还有大端小端，以及程序的运行结果，这类题目很多！现场不可能去敲这些题目，只有靠自己判断。还有，学习系统设计，分布式系统，开源项目。还有智力题，找规律等。&lt;/p&gt;
+&lt;p&gt;对，师兄给我说的面试经验，我都没怎么总结。比如写strcpy，考虑什么边界条件，不考虑异常情况的代码谁不会写啊，谁让你写这个，io怎么复用，线程，linux内核，缓冲怎么搞，看完师兄说的那几本书，epoll，还有概率题，组合排列题，智力题，都需要练，进行提高。就是考察编程，考察分析问题，解决问题的能力，遇到问题，怎么转化，（分享的有猿题库，360，爱奇艺，粉笔，京东）好像就这几个，后续有的话在进行记录。&lt;/p&gt;
+&lt;p&gt;感觉他们真是扯淡，关你屁事，听他们说什么，有意思么，自己做好自己的事情！好好学习，毕竟各走各的路，别人能给你找工作，别人优势比你大多了，你管这些干嘛，努力提高自己的技能吧！&lt;/p&gt;
+&lt;p&gt;今天参加了wap和斯伦贝谢的宣讲会，好好参加吧！&lt;/p&gt;</summary></entry><entry><title>9-16-summary</title><link href="https://y119777.github.io/9-16-summary.html" rel="alternate"></link><published>2016-09-16T22:38:00+08:00</published><author><name>yuan</name></author><id>tag:y119777.github.io,2016-09-16:9-16-summary.html</id><summary type="html">&lt;h3 id="_1"&gt;总结&lt;/h3&gt;
 &lt;p&gt;好久没写了，来灌水吧！&lt;/p&gt;
 &lt;p&gt;感觉还是迷茫，自己这样做，到底是否是正确的！我很怀疑，到底该怎么办！一直在cf上面做题，&lt;br /&gt;
 也不是办法，自己怎么提高！先简单回顾一下这周都做了什么。星期一，老师好像没有来，但听说&lt;br /&gt;
